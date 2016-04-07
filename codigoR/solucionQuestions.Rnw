@@ -1,0 +1,205 @@
+\section{Solución de Preguntas}
+Ahora se procederá a responder todas las preguntas que se plantearón al inicio de la investigación.
+
+<<datos2, results='hide', echo=FALSE, warning=FALSE,include=FALSE, message=FALSE>>=
+options(java.parameters="-Xmx1024m");
+datos <- read.csv2("E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/DataSet/HispanosSinNA.csv")
+
+datos$STATE <- as.character(datos$STATE)
+datos$COUNTY <- as.character(datos$COUNTY)
+
+datosnew <- subset(datos, datos$COUNTY!="Denali Borough" & datos$COUNTY!="Hoonah-Angoon Census Area" & datos$COUNTY!="Petersburg Census Area" & datos$COUNTY!="Skagway Municipality" & datos$COUNTY!="Wrangell City and Borough" & datos$COUNTY!="Yakutat City and Borough" & datos$COUNTY!="Broomfield")
+
+library(xtable)
+library(ggplot2)
+library(knitr)
+library(stargazer)
+library(MASS)
+
+datos1990 <- subset(datosnew, datosnew$AP==1990)
+datos2000 <- subset(datosnew, datosnew$AP==2000)
+datos2010 <- subset(datosnew, datosnew$AP==2010)
+datos2011 <- subset(datosnew, datosnew$AP==2011)
+@
+
+\subsection{Caracter descriptivo}
+
+%\begin{enumerate}
+A continuación se enumeran los promedios de la variable total ploblación en cada uno de los años del DataSet:
+%\item los promedios por  año de los ciudadanos en EEUU, son los siguientes\\
+\begin{itemize}
+\item promedio del año 1990:
+<<unoa, results='asis', echo=FALSE, warning=FALSE, message=FALSE>>=
+	mean(datos1990$TP)
+@
+\item promedio del año 2000:
+<<unob,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	mean(datos2000$TP)
+@
+\item promedio del año 2010:
+<<unoc,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	mean(datos2010$TP)
+@
+\item promedio del año 2011:
+<<unod, results='asis', echo=FALSE, warning=FALSE, message=FALSE>>=
+	mean(datos2011$TP)
+@
+\end{itemize}
+
+%\item Ciudad con más población en 1990
+<<dosa,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad2a <- subset(datos1990,datos1990$TP==max(datos1990$TP))
+	ciudad1990ta <- data.frame(Ciudad=ciudad2a$COUNTY, Estado=ciudad2a$STATE, Poblacion=ciudad2a$TP)
+	xtable(ciudad1990ta,"Ciudad con más población en el año 1990")
+@
+
+%Ciudades con menos población en el año 1990
+<<dosb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad2b <- subset(datos1990,datos1990$TP==min(datos1990$TP))
+	ciudad1990tb <- data.frame(Ciudad=ciudad2b$COUNTY, Estado=ciudad2b$STATE, Poblacion=ciudad2b$TP)  
+	xtable(ciudad1990tb,"Ciudad con menos población en el año 1990")
+@
+
+%\item Ciudad con más población en 2000
+<<tresa,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad3a <- subset(datos2000,datos2000$TP==max(datos2000$TP))
+	ciudad2000ta <- data.frame(Ciudad=ciudad2a$COUNTY, Estado=ciudad2a$STATE, Poblacion=ciudad2a$TP)
+	xtable(ciudad2000ta,"Ciudad con más población en el año 2000")
+@
+
+%Ciudades con menos población en el año 2000
+<<tresb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad3b <- subset(datos2000,datos2000$TP==min(datos2000$TP))
+	ciudad2000tb <- data.frame(Ciudad=ciudad3b$COUNTY, Estado=ciudad3b$STATE, Poblacion=ciudad3b$TP)  
+	xtable(ciudad2000tb,"Ciudad con menos población en el año 2000")
+@
+
+%\item Ciudad con más población en 2010
+<<cuata,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad4a <- subset(datos2010,datos2010$TP==max(datos2010$TP))
+	ciudad2010ta <- data.frame(Ciudad=ciudad4a$COUNTY, Estado=ciudad4a$STATE, Poblacion=ciudad4a$TP)
+	xtable(ciudad2010ta,"Ciudad con más población en el año 2010")
+@
+
+%Ciudades con menos población en el año 2010
+<<cuatb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad4b <- subset(datos2010,datos2010$TP==min(datos2010$TP))
+	ciudad2010tb <- data.frame(Ciudad=ciudad4b$COUNTY, Estado=ciudad4b$STATE, Poblacion=ciudad4b$TP)  
+	xtable(ciudad2010tb,"Ciudad con menos pobl. en 2010")
+@
+
+%\item Ciudad con más población en 2011
+<<cinca,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad5a <- subset(datos2011,datos2011$TP==max(datos2011$TP))
+	ciudad2011ta <- data.frame(Ciudad=ciudad5a$COUNTY, Estado=ciudad5a$STATE, Poblacion=ciudad5a$TP)
+	xtable(ciudad2011ta,"Ciudad con más población en el año 2011")
+@
+
+%Ciudades con menos población en el año 2011
+<<cincb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad5b <- subset(datos2011,datos2011$TP==min(datos2011$TP))
+	ciudad2011tb <- data.frame(Ciudad=ciudad5b$COUNTY, Estado=ciudad5b$STATE, Poblacion=ciudad5b$TP)  
+	xtable(ciudad2011tb,"Ciudad con menos población en el año 2011")
+@
+
+%A continuación se enumera las medias de la variables Total Población (TP), Total Población  No Hispana (TPNH) y Total Ploblación Hispana (TPH) en cada uno de los años del DataSet:
+%\item los promedios por año de ciudadanos hispanos, son los siguientes\\
+%\begin{itemize}
+%\item promedio del año 1990:
+%<<mseisa,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos1990$TPH)
+%@
+%\item promedio del año 2000:
+%<<seisb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos2000$TPH)
+%@
+%\item promedio del año 2010:
+%<<seisc,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos2010$TPH)
+%@
+%\item promedio del año 2011:
+%<<seisd,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos2011$TPH)
+%@
+%\end{itemize}
+%	grupoMediaTP 	<- c(mean(datos1990$TP), mean(datos2000$TP), mean(datos2010$TP), mean(datos2011$TP))
+%	grupoMediaTPNH 	<- c(mean(datos1990$TPNH), mean(datos2000$TPNH), mean(datos2010$TPNH),  mean(datos2011$TPNH))
+%	grupoMediaTPH 	<- c(mean(datos1990$TPH), mean(datos2000$TPH), mean(datos2010$TPH), mean(datos2011$TPH))
+%	mediasFull<-data.frame(TP=grupoMediaTP, TPNH=grupoMediaTPNH, TPH=grupoMediaTPH)	 	
+%	xtable(mediasFull,"Valores de las medias en TP, TPHN y TPH")
+A continuación se enumera las medias de la variables Total Población (TP), Total Población  No Hispana (TPNH) y Total Ploblación Hispana (TPH) en cada uno de los años del DataSet:
+
+<<medias,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	datosMedias = matrix(c(mean(datos1990$TP), mean(datos2000$TP), mean(datos2010$TP), mean(datos2011$TP),mean(datos1990$TPNH), mean(datos2000$TPNH), mean(datos2010$TPNH),  mean(datos2011$TPNH),mean(datos1990$TPH), mean(datos2000$TPH), mean(datos2010$TPH), mean(datos2011$TPH)),nrow=3,byrow=T)
+	colnames(datosMedias) = c("Año 1990","Año 2000","Año 2010","Año 2011")
+	rownames(datosMedias) = c("Media TP","Media TPNH","Media TPH")
+	xtable(datosMedias,"Valores de las medias en TP, TPHN y TPH")
+@
+
+
+El análisis continua con los siguientes resultados.
+%Ciudad con mas población hispana en el año 1990
+<<sieta,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad7a <- subset(datos1990,datos1990$TPH==max(datos1990$TPH))
+	ciudad1990ha <- data.frame(Ciudad=ciudad7a$COUNTY, Estado=ciudad7a$STATE, PoblacionH=ciudad7a$TPH)
+	xtable(ciudad1990ha,"Ciudad con mayor TPH en el año 1990")
+@
+
+%Ciudades con menos población hispana en el año 1990
+<<sietb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad7b <- subset(datos1990,datos1990$TPH==min(datos1990$TPH))
+	ciudad1990hb <- data.frame(Ciudad=ciudad7b$COUNTY, Estado=ciudad7b$STATE, PoblacionH=ciudad7b$TPH)  
+	xtable(ciudad1990hb,"Ciudad con menor TPH en el año 1990")
+@
+
+%Ciudad con más población hispana en el año 2000
+<<ochoa,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad8a <- subset(datos2000,datos2000$TPH==max(datos2000$TPH))
+	ciudad2000ha <- data.frame(Ciudad=ciudad8a$COUNTY, Estado=ciudad8a$STATE, PoblacionH=ciudad8a$TPH)
+	xtable(ciudad2000ha,"Ciudad con mayor TPH en el año 2000")
+@
+
+%Ciudades con menos población hispana en el año 2000
+<<ochob,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	ciudad8b <- subset(datos2000,datos2000$TPH==min(datos2000$TPH))
+	ciudad2000hb <- data.frame(Ciudad=ciudad8b$COUNTY, Estado=ciudad8b$STATE, PoblacionH=ciudad8b$TPH)  
+	xtable(ciudad2000hb,"Ciudad con menor TPH en el año 2000")
+@
+
+%Ciudad con más población hispana en el año 2010
+<<nueva,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+ciudad9a <- subset(datos2010,datos2010$TPH==max(datos2010$TPH))
+ciudad2010ha <- data.frame(Ciudad=ciudad9a$COUNTY, Estado=ciudad9a$STATE, PoblacionH=ciudad9a$TPH)
+xtable(ciudad2010ha,"Ciudad con mayor TPH en el año 2010")
+@
+
+%Ciudad con menos población hispana en el año 2010
+<<nuevb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+ 	ciudad9b <- subset(datos2010,datos2010$TPH==min(datos2010$TPH))
+  	ciudad2010hb <- data.frame(Ciudad=ciudad9b$COUNTY, Estado=ciudad9b$STATE, PoblacionH=ciudad9b$TPH)
+  	xtable(ciudad2010hb,"Ciudad con menor TPH en el año 2010")
+@
+
+%Ciudad con más población hispana en el año 2011
+<<diesa,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+ 	ciudad10a <- subset(datos2011,datos2011$TPH==max(datos2011$TPH))
+  	ciudad2011ha <- data.frame(Ciudad=ciudad10a$COUNTY, Estado=ciudad10a$STATE, PoblacionH=ciudad10a$TPH)
+  	xtable(ciudad2011ha,"Ciudad con mayor TPH en el año 2011")
+@
+
+%Ciudad con menos población hispana en el año 2011
+<<diesb,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+ 	ciudad10b <- subset(datos2011,datos2011$TPH==min(datos2011$TPH))
+	ciudad2011hb <- data.frame(Ciudad=ciudad10b$COUNTY, Estado=ciudad10b$STATE, PoblacionH=ciudad10b$TPH)
+ 	xtable(ciudad2011hb,"Ciudad con menor TPH en el año 2011")
+@
+
+\subsection{Matriz de correlación}
+A continuación se visualiza la matriz de correlación que existe entre la variables cuantitativas del conjunto de datos: 
+%Ciudad con menos población hispana en el año 2011
+<<correlacion,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+	correla <- data.frame(TP=datosnew$TP, TPNH=datosnew$TPNH, TPH=datosnew$TPH, PPH=datosnew$PPH, AP=datosnew$AP)
+	xtable(cor(correla),"Matrix de correlación")
+	plot(correla)
+@
+

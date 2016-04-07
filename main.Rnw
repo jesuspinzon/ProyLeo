@@ -1,0 +1,88 @@
+%Tipo de Documento [Conferencia]
+
+\documentclass[conference]{IEEEtran}
+
+%BIBLIOTECAS
+
+% Este paquete se utiliza para generar texto o graficas de relleno.
+%\usepackage{blindtext, graphicx}
+%Biblioteca para graficas
+\usepackage{graphicx}
+%Biblioteca para lectura de caracteres ortográficos (tildes..etc. ) 
+\usepackage[utf8]{inputenc}
+%Biblioteca para enumeración de imagenes
+\usepackage{float}
+%Biblioteca para graficos vectrizados.svg 
+\usepackage{svg}
+\usepackage{enumerate}
+%Biblioteca para enumerar figuras tablas.. etc en español 
+\usepackage[spanish, es-tabla]{babel}
+\usepackage[spanish]{babel}
+%\usepackage[spanish,USenglish]{babel}
+
+%INICIO DEL DOCUMENTO
+\begin{document}
+	
+	
+	% TITULO DEL PAPER
+\title{Modelo predictivo para estimar al a\~no 2020 la poblaci\'on hispana en la ciudades de Estados Unidos}
+
+% NOMBRE DE LOS AUTORES
+\author{
+	\IEEEauthorblockN{Leonel Muñoz Cedano}
+	\IEEEauthorblockA{Ingeniero de Sistemas\\ 
+		Universidad Distrital Francisco José de Caldas\\
+		Bogotá D.C., Colombia\\
+		Email: leoneling@gmail.com}
+	%\and
+}
+%TITULO
+\maketitle
+
+%abstract del documento
+\input{itemsDoc/abstract.tex}
+
+%Iniciar Palabras Clave Formato IEEE
+\begin{IEEEkeywords}
+	Big Data, Data Mining, Dataset, Modelo predictivo, SMART.
+\end{IEEEkeywords}
+
+%Introduccion 
+\input{itemsDoc/introduccion.tex}
+
+%Metodologia
+\input{itemsDoc/metodologia.tex}
+
+%Preguntas de investigacion
+\input{itemsDoc/QuestionsResearch.tex}
+	
+	% Analisis exploratorio
+	<<child='codigoR/exploratorio.Rnw', echo=FALSE, results='hide'>>=  
+	@
+	
+	% Solución de preguntas
+	<<child='codigoR/solucionQuestions.Rnw', echo=FALSE, results='hide'>>=  
+	@
+	
+	%BIBLIOGRAFÍA
+	%ENTORNO {thebibliography}
+	%Permite al autor listar las referencias utilizadas y citarlas en algun punto del texto.
+	
+	\newpage
+	 \begin{thebibliography}{1}
+	 	
+	 	\bibitem{biblio1}
+	 	S. Mohanty, M. Jagadeesh and H. Srivatsa, Big Data Imperatives: Enterprise Big Data Warehouse, BI Implementations and Analytics, Published Apress, Isbn: 978-1-4302-4872-9, New York, 2013.
+	 	
+	 	\bibitem{biblio2}
+	 	pewhispanic.org, Pew Research Center’s Hispanic Trends Project, U.S. Hispanic Population by County, 1980-2011. Disponible en: http://www.pewhispanic.org/2013/08/29/u-s-hispanic-population-by-county-1980-2011/, 2013.
+	 	
+	 	\bibitem{biblio3}
+	 	G. C. Canavos, Probabilidad y estadística: Aplicaciones y métodos, Virginia Commonwealth University, Published McGRAW HILL, 1988.
+	 	
+	 	\bibitem{biblio4}
+	 	Alzate Marco, 250 Conceptos de Probabilidad, variables aleatorias y procesos estocásticos en redes de comunicaciones, Universidad Distrital Fransisco José de Caldas, pag 15-123, 2005.
+	 	
+	 \end{thebibliography}
+	
+\end{document}

@@ -1,0 +1,149 @@
+\section{Análisis exploratorio}
+El análisis exploratorio es una proceso que se realiza previamente a la aplicacación de cualquier técnica estadística a un conjunto de datos, la cual tiene como el objetivo identificar el comportamiento de los datos a través del análisis de gráficos y estadística básica permitirá explorar las distribución de los datos e identificar características tales como: valores atípicos o outliers, concentraciones de valores, saltos o discontinuidades, forma de la distribución, etc.   
+
+<<datos, results='hide', echo=FALSE, warning=FALSE,include=FALSE, message=FALSE>>=
+options(java.parameters="-Xmx1024m");
+datos <- read.csv2("E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/DataSet/HispanosSinNA.csv")
+
+datos$STATE <- as.character(datos$STATE)
+datos$COUNTY <- as.character(datos$COUNTY)
+
+datosnew <- subset(datos, datos$COUNTY!="Denali Borough" & datos$COUNTY!="Hoonah-Angoon Census Area" & datos$COUNTY!="Petersburg Census Area" & datos$COUNTY!="Skagway Municipality" & datos$COUNTY!="Wrangell City and Borough" & datos$COUNTY!="Yakutat City and Borough" & datos$COUNTY!="Broomfield")
+
+library(xtable)
+library(ggplot2)
+library(knitr)
+library(stargazer)
+library(MASS)
+
+datos1990 <- subset(datosnew, datosnew$AP==1990)
+datos2000 <- subset(datosnew, datosnew$AP==2000)
+datos2010 <- subset(datosnew, datosnew$AP==2010)
+datos2011 <- subset(datosnew, datosnew$AP==2011)
+
+@
+
+\subsection{Analisis inicial}
+Lo primero que se va analizar es el comportamiento que tienen los datos en los diferentes años en las variables TP, NHP y HP; en se obtiene los siguientes resultados:
+%\vspace{1mm}
+<<media11990hp, results='asis'>>=
+	dfull <- data.frame(TotalCiudadanos=datosnew$TP,TotalNoHispanos=datosnew$TPNH,TotalHispanos=datosnew$TPH)
+	stargazer(dfull,type="latex",title="Total de la población de EEUU")
+@
+
+%\vspace{1mm}
+Recuerde que el anális principal de esta investigación se enfoca en estimar el crecimiento de la población hispana en algunas ciudades de EEUU, y revisando los resultados anteriores de la variable TPH se evidencia una media muy baja la cual es un valor muy significativo teniendo encuenta los valores de máximo y mínimo de la misma.  Por tal razón se ha hace necesario a través de un gráfico poder visaualizar mejor los datos de la variable TPH.   
+
+\begin{figure}[H]
+	\centering
+	<<atipicos,message=FALSE>>=
+		ggplot(datosnew,aes(TPH),label("")) + geom_dotplot()
+	@
+	\caption{Dotplot de la variable TPH}
+\end{figure}
+
+
+Posteriormente se procede a realizar un análisis del conjunto de datos más al detalle, de acuerdo con la información que se tiene de los diferentes años de la muestra.
+
+%\vspace{-10mm}
+\subsection{Analizando población hispana en el año 1990}
+%Los datos más representativos se dan a continuación:
+<<media1990, results='asis'>>=
+	d1990 <- data.frame(TotalCiudadanos=datos1990$TP,TotalNoHispanos=datos1990$TPNH,TotalHispanos=datos1990$TPH)
+	stargazer(d1990,type="latex",title="Total de la población de EEUU en el año 1990")
+@
+
+%\vspace{-10mm}
+\begin{figure}[H]
+	\centering
+	<<pobHis1990,message=FALSE>>=
+		ggplot(datos1990,aes(TPH)) + geom_histogram()
+	@
+	\caption{Población Hispana en el año 1990}
+\end{figure}
+
+%\vspace{-10mm}
+\subsection{Analizando población hispana en el año 2000}
+%Los datos más representativos se dan a continuación:
+<<media2000, results='asis'>>=
+	d2000 <- data.frame(TotalCiudadanos=datos2000$TP,TotalNoHispanos=datos2000$TPNH,TotalHispanos=datos2000$TPH)
+	stargazer(d2000,type="latex",title="Total de la población de EEUU en el año 2000")
+@
+
+%\vspace{-5mm}
+\begin{figure}[H]
+	\centering
+	<<pobHisp2000,message=FALSE>>=
+		ggplot(datos2000,aes(TPH)) + geom_histogram()
+	@
+	\caption{Población Hispana en el año 2000}
+\end{figure}
+
+%\vspace{-10mm}
+\subsection{Analizando población hispana en el año 2010}
+%Los datos más representativos se dan a continuación:
+<<media2010, results='asis'>>=
+	d2010 <- data.frame(TotalCiudadanos=datos2010$TP,TotalNoHispanos=datos2010$TPNH,TotalHispanos=datos2010$TPH)
+	stargazer(d2010,type="latex",title="Total de la población de EEUU en el año 2010")
+@
+
+%\vspace{-5mm}
+\begin{figure}[H]
+	\centering
+	<<pobHisp2010,message=FALSE>>=
+		ggplot(datos2010,aes(TPH)) + geom_histogram()
+	@
+	\caption{Población Hispana en el año 2010}
+\end{figure}
+
+%\vspace{-10mm}
+\subsection{Analizando población hispana en el año 2011}
+%Los datos más representativos se dan a continuación:
+<<media2011, results='asis'>>=
+	d2011 <- data.frame(TotalCiudadanos=datos2011$TP,TotalNoHispanos=datos2011$TPNH,TotalHispanos=datos2011$TPH)
+	stargazer(d2011,type="latex",title="Total de la población de EEUU en el año 2011")
+@
+
+%\vspace{-10mm}
+\begin{figure}[H]
+	\centering
+	<<pobHisp2011,message=FALSE>>=
+		ggplot(datos2011,aes(TPH)) + geom_histogram()
+	@
+	\caption{Población Hispana en el año 2011}
+\end{figure}
+
+%\vspace{-10mm}
+\subsection{Percentiles del conjunto de datos}
+El percentil de orden \(k\) es el cuantil de orden \(\dfrac {k} {100}\). El recorrido intercuantil refleja la variabilidad de las observaciones comprendidas entre los percentiles 25 y 75 en el conjunto de datos. En esta sesión se obtienen los percentiles del 25\%,  50\% y 75\% de las variables Total Población (TP) y Total Población Hispana (TPH) en los diferentes años de la muestra.
+
+%\vspace{4mm}
+%\begin{itemize}
+%\item Percentiles del población en el año 1990
+	<<perc1990,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+		grupo1990TP <- c(quantile(datos1990$TP,c(.25)), quantile(datos1990$TP,c(.50)), quantile(datos1990$TP,c(.75)))
+		grupo1990PH <- c(quantile(datos1990$TPH,c(.25)), quantile(datos1990$TPH,c(.50)), quantile(datos1990$TPH,c(.75)))
+		q1990<-data.frame(PercentilesTP=grupo1990TP, PercentilesTPH=grupo1990PH)	 	
+	 	xtable(q1990,"Percentiles de TP y TPH en el año 1990")
+	@
+
+	<<perc2000,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+		grupo2000TP <- c(quantile(datos2000$TP,c(.25)), quantile(datos2000$TP,c(.50)), quantile(datos2000$TP,c(.75)))
+		grupo2000PH <- c(quantile(datos2000$TPH,c(.25)), quantile(datos2000$TPH,c(.50)), quantile(datos2000$TPH,c(.75)))
+		q2000<-data.frame(PercentilesTP=grupo2000TP, PercentilesTPH=grupo2000PH)	 	
+		xtable(q2000,"Percentiles de TP y TPH en el año 2000")
+	@
+	
+	<<perc2010,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+		grupo2010TP <- c(quantile(datos2010$TP,c(.25)), quantile(datos2010$TP,c(.50)), quantile(datos2010$TP,c(.75)))
+		grupo2010PH <- c(quantile(datos2010$TPH,c(.25)), quantile(datos2010$TPH,c(.50)), quantile(datos2010$TPH,c(.75)))
+		q2010<-data.frame(PercentilesTP=grupo2010TP, PercentilesTPH=grupo2010PH)	 	
+		xtable(q2010,"Percentiles de TP y TPH en el año 2010")
+	@
+	
+	<<perc2011,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+		grupo2011TP <- c(quantile(datos2011$TP,c(.25)), quantile(datos2011$TP,c(.50)), quantile(datos2011$TP,c(.75)))
+		grupo2011PH <- c(quantile(datos2011$TPH,c(.25)), quantile(datos2011$TPH,c(.50)), quantile(datos2011$TPH,c(.75)))
+		q2011<-data.frame(PercentilesTP=grupo2011TP, PercentilesTPH=grupo2011PH)	 	
+		xtable(q2011,"Percentiles de TP y TPH en el año 2011")
+	@
