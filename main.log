@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.21)  6 APR 2016 07:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.21)  12 APR 2016 01:51
 entering extended mode
 **E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/main.tex
 (E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/main.tex
@@ -691,42 +691,32 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \. on input line 74.
 LaTeX Info: Redefining \% on input line 74.
 (itemsDoc/abstract.tex) (itemsDoc/introduccion.tex) (itemsDoc/metodologia.tex
-Underfull \hbox (badness 3199) in paragraph at lines 9--10
-\OT1/ptm/m/n/10 ob-te-ni-dos de la p[]agi-na Pew Re-search Cen-ter's
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--20
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 26.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 47.
 [1{C:/Users/VALENTINA/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-]) (itemsDoc/QuestionsResearch.tex)
-Overfull \hbox (12.19351pt too wide) in paragraph at lines 125--135
- [][] 
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 50.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 55.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 5985) in paragraph at lines 62--63
+[]\OT1/ptm/m/n/10 Varianza[6]; La Va-rian-za de las ob-ser-va-cio-nes
  []
 
-[2]
+) (itemsDoc/QuestionsResearch.tex [2])
 
 Package xcolor Warning: Incompatible color definition on input line 144.
 
@@ -736,66 +726,50 @@ File: figure/atipicos-1.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/atipicos-1.pdf used on input line 145.
 (pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
 
-Overfull \hbox (8.69351pt too wide) in paragraph at lines 163--173
- [][] 
- []
-
-
-Package xcolor Warning: Incompatible color definition on input line 180.
+Package xcolor Warning: Incompatible color definition on input line 246.
 
 <figure/pobHis1990-1.pdf, id=20, 505.89pt x 505.89pt>
 File: figure/pobHis1990-1.pdf Graphic file (type pdf)
 <use figure/pobHis1990-1.pdf>
-Package pdftex.def Info: figure/pobHis1990-1.pdf used on input line 181.
+Package pdftex.def Info: figure/pobHis1990-1.pdf used on input line 247.
 (pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[3 <./figure/atipicos-1.pdf>]
 
-Overfull \hbox (8.69351pt too wide) in paragraph at lines 196--206
- [][] 
- []
+Package xcolor Warning: Incompatible color definition on input line 258.
 
-
-Package xcolor Warning: Incompatible color definition on input line 213.
-
-<figure/pobHisp2000-1.pdf, id=21, 505.89pt x 505.89pt>
+<figure/pobHisp2000-1.pdf, id=30, 505.89pt x 505.89pt>
 File: figure/pobHisp2000-1.pdf Graphic file (type pdf)
 <use figure/pobHisp2000-1.pdf>
-Package pdftex.def Info: figure/pobHisp2000-1.pdf used on input line 214.
-(pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
-
-Overfull \hbox (8.69351pt too wide) in paragraph at lines 229--239
- [][] 
- []
-
-[3 <./figure/atipicos-1.pdf> <./figure/pobHis1990-1.pdf> <./figure/pobHisp2000-
-1.pdf>]
-
-Package xcolor Warning: Incompatible color definition on input line 246.
-
-<figure/pobHisp2010-1.pdf, id=41, 505.89pt x 505.89pt>
-File: figure/pobHisp2010-1.pdf Graphic file (type pdf)
-<use figure/pobHisp2010-1.pdf>
-Package pdftex.def Info: figure/pobHisp2010-1.pdf used on input line 247.
-(pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
-
-Overfull \hbox (8.69351pt too wide) in paragraph at lines 262--272
- [][] 
- []
-
-
-Package xcolor Warning: Incompatible color definition on input line 279.
-
-<figure/pobHisp2011-1.pdf, id=42, 505.89pt x 505.89pt>
-File: figure/pobHisp2011-1.pdf Graphic file (type pdf)
-<use figure/pobHisp2011-1.pdf>
-Package pdftex.def Info: figure/pobHisp2011-1.pdf used on input line 280.
+Package pdftex.def Info: figure/pobHisp2000-1.pdf used on input line 259.
 (pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/main.tex:288: Undefined control s
+
+Package xcolor Warning: Incompatible color definition on input line 270.
+
+<figure/pobHisp2010-1.pdf, id=31, 505.89pt x 505.89pt>
+File: figure/pobHisp2010-1.pdf Graphic file (type pdf)
+<use figure/pobHisp2010-1.pdf>
+Package pdftex.def Info: figure/pobHisp2010-1.pdf used on input line 271.
+(pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
+
+Package xcolor Warning: Incompatible color definition on input line 282.
+
+<figure/pobHisp2011-1.pdf, id=32, 505.89pt x 505.89pt>
+File: figure/pobHisp2011-1.pdf Graphic file (type pdf)
+<use figure/pobHisp2011-1.pdf>
+Package pdftex.def Info: figure/pobHisp2011-1.pdf used on input line 283.
+(pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[4 <./figure/pobHis1990-1.pdf> <./figure/pobHisp2000-1.pdf> <./figure/pobHisp20
+10-1.pdf>]
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/main.tex:291: Undefined control s
 equence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -803,28 +777,24 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
- [4 <./figure/pobHisp2010-1.pdf> <./figure/pobHisp2011-1.pdf>] <figure/correlac
-ion-1.pdf, id=56, 505.89pt x 505.89pt>
+ <figure/correlacion-1.pdf, id=51, 505.89pt x 505.89pt>
 File: figure/correlacion-1.pdf Graphic file (type pdf)
  <use figure/correlacion-1.pdf>
-Package pdftex.def Info: figure/correlacion-1.pdf used on input line 720.
+Package pdftex.def Info: figure/correlacion-1.pdf used on input line 730.
 (pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
 
-Overfull \hbox (14.45pt too wide) in paragraph at lines 720--721
+Overfull \hbox (14.45pt too wide) in paragraph at lines 730--731
 [][] 
  []
 
-
-Underfull \vbox (badness 4954) has occurred while \output is active []
-
- [5 <./figure/correlacion-1.pdf>]
-Underfull \hbox (badness 7888) in paragraph at lines 735--736
+ [5 <./figure/pobHisp2011-1.pdf> <./figure/correlacion-1.pdf>]
+Underfull \hbox (badness 7888) in paragraph at lines 745--746
 []\OT1/ptm/m/n/8 pewhispanic.org, Pew Re-search Cen-ter's His-pa-nic Trends Pro
 -
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 735--736
+Underfull \hbox (badness 1430) in paragraph at lines 745--746
 \OT1/ptm/m/n/8 ject, U.S. His-pa-nic Po-pu-la-tion by County, 1980-2011. Dis-po
 -ni-ble
  []
@@ -840,7 +810,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
- [6] (main.aux
+ [6] [7
+
+] (main.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
@@ -849,13 +821,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5641 strings out of 493634
- 84953 string characters out of 3141302
- 172311 words of memory out of 3000000
- 8936 multiletter control sequences out of 15000+200000
+ 5643 strings out of 493634
+ 84971 string characters out of 3141302
+ 172319 words of memory out of 3000000
+ 8938 multiletter control sequences out of 15000+200000
  35506 words of font info for 65 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 68i,9n,98p,561b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,9n,98p,1187b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
@@ -868,9 +840,9 @@ X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
 /times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on main.pdf (6 pages, 940302 bytes).
+Output written on main.pdf (7 pages, 942472 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

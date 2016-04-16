@@ -25,26 +25,37 @@ datos2011 <- subset(datosnew, datosnew$AP==2011)
 \subsection{Caracter descriptivo}
 
 %\begin{enumerate}
-A continuación se enumeran los promedios de la variable total ploblación en cada uno de los años del DataSet:
+%A continuación se enumeran los promedios de la variable total ploblación en cada uno de los años del DataSet:
 %\item los promedios por  año de los ciudadanos en EEUU, son los siguientes\\
-\begin{itemize}
-\item promedio del año 1990:
-<<unoa, results='asis', echo=FALSE, warning=FALSE, message=FALSE>>=
-	mean(datos1990$TP)
+%\begin{itemize}
+%\item promedio del año 1990:
+%<<unoa, results='asis', echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos1990$TP)
+%@
+%\item promedio del año 2000:
+%<<unob,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos2000$TP)
+%@
+%\item promedio del año 2010:
+%<<unoc,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos2010$TP)
+%@
+%\item promedio del año 2011:
+%<<unod, results='asis', echo=FALSE, warning=FALSE, message=FALSE>>=
+%	mean(datos2011$TP)
+%@
+%\end{itemize}
+
+A continuación se enumeran las medias de la variables Total Población (TP), Total Población  No Hispana (TPNH) y Total Ploblación Hispana (TPH) en cada uno de los años del DataSet:
+
+<<medias,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
+datosMedias = matrix(c(mean(datos1990$TP), mean(datos2000$TP), mean(datos2010$TP), mean(datos2011$TP),mean(datos1990$TPNH), mean(datos2000$TPNH), mean(datos2010$TPNH),  mean(datos2011$TPNH),mean(datos1990$TPH), mean(datos2000$TPH), mean(datos2010$TPH), mean(datos2011$TPH)),nrow=3,byrow=T)
+colnames(datosMedias) = c("Año 1990","Año 2000","Año 2010","Año 2011")
+rownames(datosMedias) = c("Media TP","Media TPNH","Media TPH")
+xtable(datosMedias,"Valores de las medias en TP, TPHN y TPH")
 @
-\item promedio del año 2000:
-<<unob,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
-	mean(datos2000$TP)
-@
-\item promedio del año 2010:
-<<unoc,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
-	mean(datos2010$TP)
-@
-\item promedio del año 2011:
-<<unod, results='asis', echo=FALSE, warning=FALSE, message=FALSE>>=
-	mean(datos2011$TP)
-@
-\end{itemize}
+
+
 
 %\item Ciudad con más población en 1990
 <<dosa,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
@@ -127,14 +138,6 @@ A continuación se enumeran los promedios de la variable total ploblación en ca
 %	grupoMediaTPH 	<- c(mean(datos1990$TPH), mean(datos2000$TPH), mean(datos2010$TPH), mean(datos2011$TPH))
 %	mediasFull<-data.frame(TP=grupoMediaTP, TPNH=grupoMediaTPNH, TPH=grupoMediaTPH)	 	
 %	xtable(mediasFull,"Valores de las medias en TP, TPHN y TPH")
-A continuación se enumera las medias de la variables Total Población (TP), Total Población  No Hispana (TPNH) y Total Ploblación Hispana (TPH) en cada uno de los años del DataSet:
-
-<<medias,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
-	datosMedias = matrix(c(mean(datos1990$TP), mean(datos2000$TP), mean(datos2010$TP), mean(datos2011$TP),mean(datos1990$TPNH), mean(datos2000$TPNH), mean(datos2010$TPNH),  mean(datos2011$TPNH),mean(datos1990$TPH), mean(datos2000$TPH), mean(datos2010$TPH), mean(datos2011$TPH)),nrow=3,byrow=T)
-	colnames(datosMedias) = c("Año 1990","Año 2000","Año 2010","Año 2011")
-	rownames(datosMedias) = c("Media TP","Media TPNH","Media TPH")
-	xtable(datosMedias,"Valores de las medias en TP, TPHN y TPH")
-@
 
 
 El análisis continua con los siguientes resultados.

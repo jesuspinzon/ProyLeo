@@ -25,7 +25,7 @@
 	
 	
 	% TITULO DEL PAPER
-\title{Modelo predictivo para estimar al a\~no 2020 la poblaci\'on hispana en la ciudades de Estados Unidos}
+\title{Modelo predictivo para estimar el crecimiento poblacional hispano al a\~no 2020 en diferentes ciudades de EEUU}
 
 % NOMBRE DE LOS AUTORES
 \author{
@@ -76,12 +76,18 @@
 	 	
 	 	\bibitem{biblio2}
 	 	pewhispanic.org, Pew Research Center’s Hispanic Trends Project, U.S. Hispanic Population by County, 1980-2011. Disponible en: http://www.pewhispanic.org/2013/08/29/u-s-hispanic-population-by-county-1980-2011/, 2013.
-	 	
+	 	 	
 	 	\bibitem{biblio3}
-	 	G. C. Canavos, Probabilidad y estadística: Aplicaciones y métodos, Virginia Commonwealth University, Published McGRAW HILL, 1988.
+	 	G. T. Doran, There's a S.M.A.R.T. Way to Write Management's Goals and Objectives, Management Review, Vol. 70, Issue 11, pp. 35-36, 1981.
 	 	
 	 	\bibitem{biblio4}
+	 	R. D. Peng and E. Matsui, The Art of Data Science: A guide for anyone who works whit data, Published Leanpub, Disponible en:http://leanpub.com/artofdatascience, 2015.
+	 	 	
+	 	\bibitem{biblio5}
 	 	Alzate Marco, 250 Conceptos de Probabilidad, variables aleatorias y procesos estocásticos en redes de comunicaciones, Universidad Distrital Fransisco José de Caldas, pag 15-123, 2005.
+	 	
+ 		\bibitem{biblio6}
+ 		G. C. Canavos, Probabilidad y estadística: Aplicaciones y métodos, Virginia Commonwealth University, Published McGRAW HILL, 1988.
 	 	
 	 \end{thebibliography}
 	

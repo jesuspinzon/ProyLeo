@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.21)  6 APR 2016 07:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.21)  12 APR 2016 00:55
 entering extended mode
 **E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex
 (E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex
@@ -177,8 +177,8 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
  []
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:9: 
-LaTeX Error: Missing \begin{document}.
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:30:
+ LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -210,16 +210,13 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
@@ -233,12 +230,64 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no T in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no P in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no b in font nullfont!
@@ -249,6 +298,18 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no Ã in font nullfont!
 Missing character: There is no ³ in font nullfont!
 Missing character: There is no n in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ) in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no c in font nullfont!
@@ -280,136 +341,13 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 9--11
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--31
 []
  []
 
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no [ in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no [ in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no [ in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no [ in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 3 in font nullfont!
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:29:
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:34:
  LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -418,101 +356,25 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Missing character: There is no [ in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ] in font nullfont!
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 31.
-Missing character: There is no C in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 4 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:38:
- LaTeX Error: \caption outside float.
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:34:
+ LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no C in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ¡ in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ³ in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 36.
+Missing character: There is no A in font nullfont!
 Missing character: There is no Ã in font nullfont!
 Missing character: There is no ± in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -520,76 +382,152 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 0 in font nullfont!
-
-
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:39:
- LaTeX Error: \begin{document} ended by \end{table}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 29--40
-[]
- []
-
+Missing character: There is no A in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 3 in font nullfont!
 
 
 E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:45:
- LaTeX Error: Environment table undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-
-
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:54:
  LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -597,45 +535,40 @@ Type  H <return>  for immediate help
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no C in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no V in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no i in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ³ in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 0 in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no H in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:55:
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:46:
  LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -645,13 +578,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 45--56
+Overfull \hbox (20.0pt too wide) in paragraph at lines 34--47
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:61:
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:54:
  LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -659,6 +592,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:54:
+ LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -715,7 +658,265 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 
 
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:63:
+ LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:64:
+ LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 54--65
+[]
+ []
+
+
+
 E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:70:
+ LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:70:
+ LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:79:
+ LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:80:
+ LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 70--81
+[]
+ []
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:86:
+ LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:86:
+ LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:95:
  LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -760,7 +961,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:71:
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:96:
  LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -770,20 +971,30 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 61--72
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--97
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:77:
- LaTeX Error: Environment table undefined.
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:102
+: LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:102
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -826,8 +1037,8 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 7 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:86:
- LaTeX Error: \caption outside float.
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:111
+: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -872,8 +1083,8 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:87:
- LaTeX Error: \begin{document} ended by \end{table}.
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:112
+: LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -882,20 +1093,30 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 77--88
+Overfull \hbox (20.0pt too wide) in paragraph at lines 102--113
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:93:
- LaTeX Error: Environment table undefined.
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:118
+: LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:118
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -952,7 +1173,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:102
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:127
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -997,7 +1218,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:103
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:128
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1007,13 +1228,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 93--104
+Overfull \hbox (20.0pt too wide) in paragraph at lines 118--129
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:109
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:134
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1021,6 +1242,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:134
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1063,7 +1294,7 @@ Missing character: There is no 8 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:118
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:143
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1098,7 +1329,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:119
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:144
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1108,13 +1339,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 109--120
+Overfull \hbox (20.0pt too wide) in paragraph at lines 134--145
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:125
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:150
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1122,6 +1353,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:150
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1178,7 +1419,7 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 6 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:134
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:159
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1223,7 +1464,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:135
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:160
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1233,13 +1474,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 125--136
+Overfull \hbox (20.0pt too wide) in paragraph at lines 150--161
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:141
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:166
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1247,6 +1488,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:166
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1291,7 +1542,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:150
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:175
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1337,7 +1588,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:151
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:176
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1347,391 +1598,19 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 141--152
-[]
- []
-
-Missing character: There is no A in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ³ in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ³ in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no ) in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ³ in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no ) in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ³ in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no ) in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no : in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 179--180
+Overfull \hbox (20.0pt too wide) in paragraph at lines 166--177
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:183
-: LaTeX Error: Environment table undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-Missing character: There is no [ in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-
-
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:194
-: LaTeX Error: \caption outside float.
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:206
+: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no V in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no H in font nullfont!
-
-
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:195
-: LaTeX Error: \begin{document} ended by \end{table}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 183--196
-[]
- []
 
 Missing character: There is no E in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -1781,7 +1660,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:203
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:210
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1846,7 +1725,7 @@ Missing character: There is no 4 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:212
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:219
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1885,7 +1764,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:213
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:220
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1895,13 +1774,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 199--214
+Overfull \hbox (20.0pt too wide) in paragraph at lines 206--221
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:219
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:226
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1909,6 +1788,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:226
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2105,7 +1994,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:236
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:243
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2144,7 +2033,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:237
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:244
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2154,13 +2043,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 219--238
+Overfull \hbox (20.0pt too wide) in paragraph at lines 226--245
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:243
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:250
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2168,6 +2057,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:250
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2225,7 +2124,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:252
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:259
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2264,7 +2163,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:253
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:260
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2274,13 +2173,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 243--254
+Overfull \hbox (20.0pt too wide) in paragraph at lines 250--261
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:259
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:266
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2288,6 +2187,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:266
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2351,7 +2260,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:269
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:276
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2390,7 +2299,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:270
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:277
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2400,13 +2309,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 259--271
+Overfull \hbox (20.0pt too wide) in paragraph at lines 266--278
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:276
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:283
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2414,6 +2323,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:283
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2469,64 +2388,64 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no 9 in font nullfont!
-
-
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:285
-: LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no C in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no Ã in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-
-
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:286
-: LaTeX Error: \begin{document} ended by \end{table}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 276--287
-[]
- []
-
 
 
 E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:292
+: LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:293
+: LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 283--294
+[]
+ []
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:299
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2534,6 +2453,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:299
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2579,7 +2508,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:301
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:308
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2618,7 +2547,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:302
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:309
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2628,13 +2557,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 292--303
+Overfull \hbox (20.0pt too wide) in paragraph at lines 299--310
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:308
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:315
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2642,6 +2571,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:315
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2699,7 +2638,7 @@ Missing character: There is no 7 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:317
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:324
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2738,7 +2677,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:318
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:325
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2748,13 +2687,13 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 308--319
+Overfull \hbox (20.0pt too wide) in paragraph at lines 315--326
 []
  []
 
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:324
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:331
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2762,6 +2701,16 @@ Type  H <return>  for immediate help
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:331
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -2807,7 +2756,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:333
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:340
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2846,7 +2795,7 @@ Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:334
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:341
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2856,18 +2805,28 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 324--335
+Overfull \hbox (20.0pt too wide) in paragraph at lines 331--342
 []
  []
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:337
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:344
 : Undefined control sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:344
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no M in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -2995,7 +2954,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:342
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:349
 : LaTeX Error: Environment table undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -3138,7 +3097,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:355
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:362
 : LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -3168,7 +3127,7 @@ Missing character: There is no ³ in font nullfont!
 Missing character: There is no n in font nullfont!
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:356
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:363
 : LaTeX Error: \begin{document} ended by \end{table}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -3178,18 +3137,28 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 337--357
+Overfull \hbox (20.0pt too wide) in paragraph at lines 344--364
 []
  []
 
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:358
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:365
 : Undefined control sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
+
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:365
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no w in font nullfont!
@@ -3199,7 +3168,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no = in font nullfont!
 
-E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:358
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:365
 : Undefined control sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3229,20 +3198,49 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no - in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 358--359
+Overfull \hbox (20.0pt too wide) in paragraph at lines 365--366
 [] 
  []
 
+
+
+E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/codigoR/solucionQuestions.tex:368
+: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
 )
 ! Emergency stop
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 13 strings out of 493634
- 356 string characters out of 3141302
- 65604 words of memory out of 3000000
- 3497 multiletter control sequences out of 15000+200000
+ 11 strings out of 493634
+ 340 string characters out of 3141302
+ 64604 words of memory out of 3000000
+ 3495 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  19i,6n,12p,264b,104s stack positions out of 5000i,500n,10000p,200000b,50000s
